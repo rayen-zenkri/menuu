@@ -1,0 +1,44 @@
+{
+  "menu": [
+    {
+      "id": 4,
+      "name": "Spicy Burger",
+      "image": "burger.jpg",
+      "price": "12.99",
+      "rating": 4.2,
+      "description": "A spicy and delicious burger with a smoky flavor."
+    },
+    {
+      "id": 5,
+      "name": "Vegetable Salad",
+      "image": "pizza.jpg",
+      "price": "9.99",
+      "rating": 4.7,
+      "description": "A fresh salad with seasonal vegetables."
+    },
+    {
+      "id": 6,
+      "name": "Grilled Chicken",
+      "image": "recipes.jpg",
+      "price": "17.50",
+      "rating": 4.8,
+      "description": "Tender grilled chicken served with sides."
+    },
+    {
+      "id": 7,
+      "name": "Fish Tacos",
+      "image": "test.jpg",
+      "price": "14.99",
+      "rating": 4.6,
+      "description": "Delicious tacos filled with grilled fish and fresh toppings."
+    },
+    {
+      "id": 8,
+      "name": "Pasta Alfredo",
+      "image": "img1.jpg",
+      "price": "16.75",
+      "rating": 4.9,
+      "description": "Creamy alfredo pasta with a rich and flavorful sauce."
+    }
+  ]
+}
